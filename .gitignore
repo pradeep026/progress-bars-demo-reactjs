@@ -1,0 +1,25 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+/dist
+/tmp
+
+# dependencies
+/node_modules
+
+# misc
+npm-debug.log
+testem.log
+*.sublime-project
+*.sublime-workspace
+
+#nvm
+~/
+
+
+# OSX Default Ignore
+.DS_Store
+.AppleDouble
+.LSOverride
+._* # Thumbnails
+.Trashes

@@ -1,1 +1,1 @@
-# progress-bars-demo-reactjs
+# Progress Bars Demo Application - ReactJS
