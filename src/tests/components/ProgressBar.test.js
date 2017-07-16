@@ -36,6 +36,6 @@ describe('<MyComponent />', () => {
     // Find the progress span tag's width
     const SpanElement = Component.find('span.progress');
     const className = SpanElement.getDOMNode().className;
-    expect(className).to.equal(`progress crossed`);
+    expect(className).to.equal(`progress progress--limit-crossed`);
   });
 });
