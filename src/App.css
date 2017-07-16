@@ -14,7 +14,7 @@
   border: 1px solid #ccc;
 }
 
-.progress-bar-a{
+.progress-bar{
     text-align: center;
     background: #fff;
     border: 1px solid #ccc;
@@ -44,6 +44,6 @@
   height: 36px;
 }
 
-.crossed {
+.progress--limit-crossed {
   background: #F00000 !important;
 }
