@@ -23,12 +23,12 @@
     overflow: hidden;
 }
 
-.progress-bar-a span.label{
+.progress-bar span.label{
   position: absolute;
   top: 12px;
 }
 
-.progress-bar-a span.progress{
+.progress-bar span.progress{
   background: #a1eefc;
   height: 40px;
   display: block;

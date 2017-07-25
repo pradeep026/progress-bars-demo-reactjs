@@ -1,5 +1,6 @@
+import fetch from 'isomorphic-fetch';
 const HostUrl =  "http://pb-api.herokuapp.com";
-import fetch from 'isomorphic-fetch'
+
 
 const HttpHandler = () => {
 
